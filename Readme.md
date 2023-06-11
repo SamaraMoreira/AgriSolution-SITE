@@ -27,6 +27,7 @@ sem considerar a gasolina utilizada, somente a mão de obra.
     Já a empresa, deverá realizar o seu cadastro, e pode cadastrar uma rota, 
 com base no produto, e para a rota, a empresa deverá cadastrar um destinatário, 
 seria quem vai receber a carga, sendo essa uma medida para evitar fraudes.
+<h4> Ciclo </h4>  
     O AgriSolutions é um ciclo que beneficia a todos, o motorista terá 
 oportunidades diretas de trabalho, flexibilidade de horários, e a possibilidade de 
 negociar as condições de trabalho e remunerações justas. A empresa íra reduzir 
