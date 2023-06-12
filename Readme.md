@@ -40,3 +40,4 @@ de abastecimento e ajudando a fornecer alimentos para aqueles que mais
 precisam, as empresas combatem a fome e a escassez de alimentos, ao otimizar 
 a distribuição de alimentos, aumentar sua disponibilidade e reduzir o 
 desperdício
+ass
